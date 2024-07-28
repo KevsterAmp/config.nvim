@@ -1,4 +1,5 @@
 # Personal Neovim Config
+
 ```
 .
 ├── README.md
@@ -16,20 +17,24 @@
         ├── colorscheme.lua
         ├── comment.lua
         ├── dressing.lua
+        ├── formatting.lua
+        ├── gitsigns.lua
+        ├── harpoon.lua
         ├── indent-blankline.lua
         ├── init.lua
         ├── lazygit.lua
+        ├── linting.lua
         ├── lsp
         │   ├── lspconfig.lua
         │   └── mason.lua
-        ├── lualine.lua
         ├── nvim-cmp.lua
         ├── oil.lua
         ├── surround.lua
         ├── telescope.lua
         ├── treesitter.lua
+        ├── trouble.lua
         ├── vim-maximizer.lua
         └── which-key.lua
 
-5 directories, 25 files
+5 directories, 29 files
 ```
