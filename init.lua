@@ -1,2 +1,2 @@
-require("kevsteramp.core")
-require("kevsteramp.lazy")
+require("core")
+require("core.lazy")
