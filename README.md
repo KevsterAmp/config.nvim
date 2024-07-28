@@ -19,6 +19,9 @@
         ├── indent-blankline.lua
         ├── init.lua
         ├── lazygit.lua
+        ├── lsp
+        │   ├── lspconfig.lua
+        │   └── mason.lua
         ├── lualine.lua
         ├── nvim-cmp.lua
         ├── oil.lua
@@ -28,5 +31,5 @@
         ├── vim-maximizer.lua
         └── which-key.lua
 
-4 directories, 23 files
+5 directories, 25 files
 ```
