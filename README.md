@@ -1,4 +1,5 @@
 # Personal Neovim Config
+```
 .
 ├── README.md
 ├── init.lua
@@ -28,3 +29,4 @@
         └── which-key.lua
 
 4 directories, 23 files
+```
